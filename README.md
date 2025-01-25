@@ -1,11 +1,9 @@
 <h1>Hi, I'm Terovelt Dormeus </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-<p align="center">
-Live RDP Attack Monitoring with Azure Sentinel and Honeypot VM
-https://github.com/TeroveltDormeus/SIEM-Lab
-
+  <a href="https://github.com/TeroveltDormeus/SIEM-Lab">Live RDP Attack Monitoring with Azure Sentinel and Honeypot VM</a>
 <h2> Certifications </h2>
-Network+
+<a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=0ZYDJPH4D4KLFK57">Network+</a>
 </p>
-Security+
+<a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=0ZYDJPH4D4KLFK57">Security+</a>
+
