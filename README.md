@@ -1,6 +1,6 @@
 <h1>Hi, I'm Terovelt Dormeus </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Technical Projects:</h2>
   <a href="https://github.com/TeroveltDormeus/SIEM-Lab">RDP Attack Monitoring with Azure Sentinel(SIEM)</a>
   </P>
   <a href="https://github.com/TeroveltDormeus/HomeLab">HomeLab Project</a>
